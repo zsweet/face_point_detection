@@ -1,0 +1,4 @@
+test.csv
+training.csv
+*.pyc
+idea/
